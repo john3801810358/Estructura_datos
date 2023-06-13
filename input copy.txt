@@ -1,0 +1,1 @@
+Hola, este es un ejemplo de texto para probar la compresión con el algoritmo de Huffman. Este texto contiene caracteres repetidos como 'o', 's', 'e' y ' '. Vamos a ver cómo se comprime y se decodifica.
