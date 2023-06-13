@@ -1,3 +1,30 @@
+
+👍
+https://meet.google.com/qcv-xtbz-ymf
+Listo ya me conect3
+https://believed-snap-356.notion.site/Codificaci-n-de-Huffman-c208a50eda0f4a9e941e8d87a909f752
+## Ejecución del proyecto
+1. Instalación en Node.js:
+   - Asegúrate de tener Node.js instalado en tu sistema. Puedes verificarlo ejecutando el siguiente comando en la terminal:
+     
+     node -v
+     
+     Si Node.js está instalado, verás la versión de Node.js. Si no lo tienes instalado, puedes descargarlo desde el sitio oficial de Node.js (https://nodejs.org) e instalarlo según las instrucciones de tu sistema operativo.
+
+2. Preparación del proyecto:
+   - Crea una carpeta para tu proyecto y coloca el código en un archivo con extensión ".js", por ejemplo, "main.js".
+   - Coloca el archivo de texto que deseas comprimir en la misma carpeta y nómbralo "input.txt".
+
+3. Ejecución del proyecto:
+   - Abre la terminal y navega hasta la carpeta donde tienes el archivo "huffman.js" y el archivo de texto "input.txt".
+   - Ejecuta el siguiente comando para instalar el módulo `fs` (sistema de archivos) de Node.js, que se utiliza en el código:
+     
+     npm install fs
+     
+   - Una vez instalado el módulo, puedes ejecutar el proyecto utilizando el siguiente comando:
+     
+     node huffman.js
+     
 # Codificación de Huffman
 
 El algoritmo de codificación de Huffman se basa en la construcción de un árbol binario de prefijos, donde cada hoja representa un carácter y cada camino desde la raíz hasta una hoja determina el código binario asignado a ese carácter.
